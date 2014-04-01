@@ -264,6 +264,19 @@
 				]
 			},
 			{
+				"title": "Functionality Overview",
+				"items": [
+					{
+						"name": "dev_uicolor",
+						"url": "dev/features/uicolor",
+						"title": "UI Color",
+						"description": "Adjusting CKEditor UI Color.",
+						"meta_description": "Adjusting CKEditor UI Color.",
+						"meta_keywords": "ckeditor, editor, wysiwyg, color, colour, ui, interface, skin, configure, configuration, setup, settings, options, customization, customize, customise, customisation, config, modification, modify, change"
+					}
+				]
+			},
+			{
 				"title": "CKEditor Deep Dive",
 				"items": [
 					{
